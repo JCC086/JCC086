@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @JCC086
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning git and github
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+Este é o meu readme.
+Aprendi sobre o seu conceito e como utilizá-lo na Nave do Conhecimento de Realengo
+
+
+<!---
+JCC086/JCC086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
