@@ -7,8 +7,7 @@
 - ⚡ Fun fact: ...
 
 Este é o meu readme.
-Aprendi sobre o seu conceito e como utilizá-lo na Nave do Conhecimento de Realengo
-https://br.freepik.com/vetores-gratis/mao-desenhada-foguete-espacial-moderno_2925196.htm#fromView=search&page=1&position=9&uuid=d5db973f-6d02-4d8a-868e-eacd6a4e3120
+Aprendi sobre o seu conceito e como utilizá-lo na Nave do Conhecimento de Realengo.
 
 <!---
 JCC086/JCC086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
